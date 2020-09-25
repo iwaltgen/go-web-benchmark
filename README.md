@@ -15,8 +15,10 @@ Go web htt2 benchmark suite.
 [fiber]: https://github.com/gofiber/fiber
 
 
-# Pre
+## Prerequisites
 
-mkcert
-
-vegeta
+```sh
+$ brew install vegeta mkcert
+$ mkcert -install
+$ mkcert localhost 127.0.0.1 ::1
+```
