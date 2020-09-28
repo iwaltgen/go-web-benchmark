@@ -14,5 +14,7 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-report/*
 localhost*.pem
+report/*
+!report/*.html
+!report/*.png

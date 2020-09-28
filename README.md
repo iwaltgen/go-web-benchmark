@@ -22,3 +22,9 @@ $ brew install vegeta mkcert
 $ mkcert -install
 $ mkcert localhost 127.0.0.1 ::1
 ```
+
+## Test
+
+Setting mock 100ms processing time and request 10000 req/s.
+
+[![100ms-10000tps](report/plot-100ms-10000tps.png)](report/plot-100ms-10000tps.png)
