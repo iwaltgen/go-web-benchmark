@@ -27,4 +27,4 @@ $ mkcert localhost 127.0.0.1 ::1
 
 Setting mock 100ms processing time and request 10000 req/s.
 
-[![100ms-10000tps](report/plot-100ms-10000tps.png)](report/plot-100ms-10000tps.png)
+[![100ms-10000tps](report/plot-100ms-10000tps.png)](https://htmlpreview.github.io/?https://github.com/iwaltgen/go-web-benchmark/blob/master/report/plot-100ms-10000tps.html)
