@@ -1,6 +1,6 @@
 # Go web http2 benchmark
 
-Go web htt2 benchmark suite.
+Go web http2 benchmark suite.
 
 # Frameworks
 
